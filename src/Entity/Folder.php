@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BurakBoz\streamango\Entity;
+namespace ainzz\verystream\Entity;
 
 /**
  * Folder
@@ -18,5 +18,4 @@ namespace BurakBoz\streamango\Entity;
  */
 class Folder extends AbstractContent
 {
-
 }

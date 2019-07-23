@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BurakBoz\streamango\Exception;
+namespace ainzz\verystream\Exception;
 
 /**
  * PermissionDeniedException
@@ -18,5 +18,4 @@ namespace BurakBoz\streamango\Exception;
  */
 class PermissionDeniedException extends \Exception
 {
-
 }

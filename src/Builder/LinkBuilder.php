@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BurakBoz\streamango\Builder;
+namespace ainzz\verystream\Builder;
 
-use BurakBoz\streamango\Entity\DownloadLink;
-use BurakBoz\streamango\Entity\UploadLink;
+use ainzz\verystream\Entity\DownloadLink;
+use ainzz\verystream\Entity\UploadLink;
 
 /**
  * DownloadLinkBuilder

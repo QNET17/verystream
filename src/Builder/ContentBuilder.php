@@ -9,10 +9,10 @@
  * file that was distributed with this source code.
  */
 
-namespace BurakBoz\streamango\Builder;
+namespace ainzz\verystream\Builder;
 
-use BurakBoz\streamango\Entity\File;
-use BurakBoz\streamango\Entity\Folder;
+use ainzz\verystream\Entity\File;
+use ainzz\verystream\Entity\Folder;
 
 /**
  * ContentBuilder

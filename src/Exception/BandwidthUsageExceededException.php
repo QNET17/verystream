@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace BurakBoz\streamango\Exception;
+namespace ainzz\verystream\Exception;
 
 /**
  * BandwidthUsageExceededException
@@ -18,5 +18,4 @@ namespace BurakBoz\streamango\Exception;
  */
 class BandwidthUsageExceededException extends \Exception
 {
-
 }

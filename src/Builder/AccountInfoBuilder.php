@@ -9,9 +9,9 @@
  * file that was distributed with this source code.
  */
 
-namespace BurakBoz\streamango\Builder;
+namespace ainzz\verystream\Builder;
 
-use BurakBoz\streamango\Entity\AccountInfo;
+use ainzz\verystream\Entity\AccountInfo;
 
 /**
  * AccountBuilder
