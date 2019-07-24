@@ -19,9 +19,9 @@ include_once './vendor/autoload.php';
 
 use ainzz\verystream\verystreamClient;
 
-$openload = new verystreamClient('apiLogin', 'apiKey');
+$verystream = new verystreamClient('apiLogin', 'apiKey');
 
-$accountInfo = $openload->getAccountInfo();
+$accountInfo = $verystream->getAccountInfo();
 echo $accountInfo->getEmail(); //account@email.com
 ```
 
@@ -34,9 +34,9 @@ include_once './vendor/autoload.php';
 
 use ainzz\verystream\verystreamClient;
 
-$openload = new verystreamClient('apiLogin', 'apiKey');
+$verystream = new verystreamClient('apiLogin', 'apiKey');
 
-$openload->uploadFile('/home/user/Pictures/image.jpg');
+$verystream->uploadFile('/home/user/Pictures/image.jpg');
 ```
 
 It's also possible find more about what you can to do at [verystream API](https://verystream.com/api).
